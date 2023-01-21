@@ -8,5 +8,5 @@
 |---|---|
 | LinearM.py | Python script with the classes of the Linear Regression package |
 | LinearModel.ipynb | Jupyter notebook with the predictive model of rat weight vs height |
-| dataset.csv | CSV file of a 8-data-point dataset |
+| dataset.csv | CSV file of a 9-data-point dataset |
 ---
