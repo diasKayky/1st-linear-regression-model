@@ -1,12 +1,12 @@
-# Simple Linear Regression Model
+# Modelo de Regressão Linear Simples
 
-  A scientist that researches the _Rattus norvegicus_ species needs to comprehend the relationship between their weight and height. In order to solve his research problems, he conducted an analysis, using a linear regression model, to investigate the hypothetical linear correlation between the variables.
+  Um cientista que pesquisa a espécie _Rattus norvegicus_ precisa entender a relação entre o peso e altura dos animais. Para resolver seus problemas de pesquisa, ele realizou uma análise, usando um modelo de regressão linear simples, para investigar a correlação linear hipotética entre as variáveis.
   
-** Fake Data — the model was made using an example dataset **
+** Dados falsos — o modelo foi feito usando um conjunto de dados de exemplo **
 
-|File name | Description |
+|Arquivo | Descrição |
 |---|---|
-| LinearM.py | Python script with the classes of the Linear Regression package |
-| LinearModel.ipynb | Jupyter notebook with the predictive model of rat weight vs height |
-| dataset.csv | CSV file of a 9-data-point dataset |
+| LinearM.py | Script Python com as classes do pacote LinearRegression |
+| LinearModel.ipynb | Jupyter Notebook com o modelo preditivo de peso x altura dos ratos |
+| dataset.csv | Arquivo CSV de um dataset de 9 data points |
 ---
