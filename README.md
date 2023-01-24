@@ -6,7 +6,7 @@
 
 |Arquivo | Descrição |
 |---|---|
-| LinearM.py | Script Python com as classes do pacote LinearM |
+| LinearM.py | Script Python com as classes da package LinearM |
 | LinearModel.ipynb | Jupyter Notebook com o modelo preditivo de peso x altura dos ratos |
 | dataset.csv | Arquivo CSV de um dataset de 9 data points |
 ---
